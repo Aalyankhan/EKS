@@ -1,8 +1,4 @@
-
-provider "aws" {
-  region = var.aws_region
-}
-
+# vpc.tf
 data "aws_availability_zones" "available" {}
 
 locals {
