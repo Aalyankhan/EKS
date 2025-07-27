@@ -1,6 +1,6 @@
 # EKS Cluster with Worker Nodes + IAM Roles
 
-![EKS Architecture Diagram](./images/eks-architecture.png)
+![EKS Architecture Diagram](images/eks-architecture.png)
 
 # EKS Cluster with Worker Nodes + IAM Roles
 
